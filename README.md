@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning front-end web development.
 - 💞️ I’m looking to collaborate on any project related to web development.
 - 📫 How to reach me? ... (pleasemailmizan@gmail.com).
-- 😄 Pronouns: He.
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: It varies. :)
 
 <!---
